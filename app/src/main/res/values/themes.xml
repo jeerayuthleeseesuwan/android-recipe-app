@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RecipeApp" parent="Theme.Material3.DayNight.NoActionBar">
+         <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.RecipeApp" parent="Base.Theme.RecipeApp" />
+</resources>
